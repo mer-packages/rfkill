@@ -1,3 +1,0 @@
-[submodule "rfkill"]
-	path = rfkill
-	url = git://git.kernel.org/pub/scm/linux/kernel/git/jberg/rfkill.git
